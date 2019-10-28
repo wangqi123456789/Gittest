@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sxf.iml" filepath="$PROJECT_DIR$/.idea/modules/Sxf.iml" group="Sxf" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sxf/Sxf_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sxf/Sxf_main.iml" group="Sxf" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sxf/Sxf_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Sxf/Sxf_test.iml" group="Sxf" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.test.iml" />
+    </modules>
+  </component>
+</project>
