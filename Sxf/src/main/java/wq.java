@@ -52,5 +52,6 @@ public class wq {
         File srcFile = new File("D:/wq/www.txt");
         splitFile(srcFile, eachSize);
         System.out.println("wq");
+        System.out.println("");
     }
 }
