@@ -51,5 +51,6 @@ public class wq {
         int eachSize = 100 * 1024; // 100k
         File srcFile = new File("D:/wq/www.txt");
         splitFile(srcFile, eachSize);
+        System.out.println("wq");
     }
 }

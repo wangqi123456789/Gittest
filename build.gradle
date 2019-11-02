@@ -34,6 +34,9 @@ subprojects {
 
     dependencies {
         testCompile('org.springframework.boot:spring-boot-starter-test')
-        compile('org.projectlombok:lombok')
+        compile 'org.springframework.boot:spring-boot-starter-web:2.0.4.RELEASE'
+        compile 'org.projectlombok:lombok:1.16.16'
+        compile 'org.hibernate:hibernate-validator:5.3.6.Final'
+        compile 'org.springframework.boot:spring-boot-starter-mail'//邮件依赖依赖
     }
 }
