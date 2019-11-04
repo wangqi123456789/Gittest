@@ -43,6 +43,7 @@ public class wq {
                     System.out.printf("输出子文件%s，其大小是 %d字节%n", eachFile.getAbsoluteFile(), eachFile.length());
                 } catch (IOException e) {
                     e.printStackTrace();
+
                 }
             }
         }
